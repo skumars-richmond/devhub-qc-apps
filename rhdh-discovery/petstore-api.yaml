@@ -37,4 +37,4 @@ spec:
   owner: petstore-devs
   lifecycle: staging
   definition:
-    $openapi: https://github.com/OAI/OpenAPI-Specification/blob/main/examples/v3.0/petstore.yaml
+    $openapi: https://github.com/OAI/OpenAPI-Specification/blob/main/tests/v3.0/pass/petstore.yaml
